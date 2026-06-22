@@ -1,8 +1,8 @@
 <div align="center">
   
-<img src="Leitor_de_ORFs/Imagens/capa.png" width="700" alt="Leitor de ORFs">
+<img src="Leitor_de_ORFs/Imagens/capa.png" width="1000" alt="Leitor de ORFs">
 
-<img src="Leitor_de_ORFs/Imagens/cabecalho_ILUM.png" width="700" alt="Leitor de ORFs">
+<img src="Leitor_de_ORFs/Imagens/cabecalho_ILUM.png" width="1000" alt="Leitor de ORFs">
 
 # 🧬 Leitor de ORFs 🧬
 
@@ -113,6 +113,6 @@ Agradecimento especial aos professores da disciplina de Práticas em Ciência de
 
 ⭐ Professor James Moraes de Almeida
 
-<img src="Leitor_de_ORFs/Imagens/rodape_ILUM.png" width="700" alt="Leitor de ORFs">
+<img src="Leitor_de_ORFs/Imagens/rodape_ILUM.png" width="1000" alt="Leitor de ORFs">
 
 </div>
